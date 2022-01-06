@@ -2,7 +2,7 @@
  
 # Welcome!
  
-## Please let us know if you need anything!
+## Please let me know if you need anything!
  Front-end focused in REACT JS 🤖
  
  Bachelor's Degree in Law 📕
